@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...--
+My name is Noah, i'm a computer scientist interested in web development!
+
+- 🔭 I’m currently working on (file:///home/noah/Downloads/zark/index.html) Personal Support Worker Certifcation,a website(frontend part) for issuing certificate for persons who have completed the NACC examinations.
+- 🌱 I’m currently learning Javascript React.
+  
 
